@@ -6,3 +6,7 @@ A Python Script That Generates Your Termiux Code
 
 If You Need Help Look At My Telegram Channel 
 https://t.me/DewTools
+
+#Telegram : @DewTools
+#Inst : @hr8k
+#Github : github.com/LordAbdulla
