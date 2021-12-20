@@ -5,4 +5,4 @@ A Python Script That Generates Your Termiux Code
 - https://my.telegram.org/
 
 If You Need Help Look At My Telegram Channel 
-t.me/DewTools
+https://t.me/DewTools
